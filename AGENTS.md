@@ -1,6 +1,7 @@
 # AI.subicin-Agents — AGENTS
 
 ## Kako biraš agenta
+- @lead-architect — glavni orchestrator (delegira zadatke i kontroliše ostale)
 - @architect — dizajn, granice, rizici, plan implementacije
 - @spring-backend — Spring Boot (REST, JPA, security, migrations, tests)
 - @vue-frontend — Vue 3 UI (CZ tekst), integracija sa API
